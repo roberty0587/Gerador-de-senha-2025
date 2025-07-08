@@ -1,1 +1,1 @@
-# Gerador-de-senha-2025
+# Javascript-gerador-senha
